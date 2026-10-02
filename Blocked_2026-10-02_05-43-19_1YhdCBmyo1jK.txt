@@ -1,0 +1,15 @@
+The file was blocked since it contained data that is not allowed to be downloaded.
+----------------------------------------------------------------------------------
+Original file name: 52adc8d6-ba6d-4f67-bf0f-8642c24a68ab_MThumb.jpg
+Original file size in bytes: 1979
+----------------------------------------------------------------------------------
+Download Blocked: Real-Time Content Inspection
+
+Your download has been blocked due to a potential security risk identified through real-time content inspection. To ensure the safety of SoftwareOne's data, this file cannot be downloaded to this (private) device.
+
+What to do next:
+
+In urgent cases: Please use your BYOD or corporate SoftwareOne device to download the respective file.
+Contact Support: If you believe this is an error, please contact IT Service Desk at itservicedesk@softwareone.com for further assistance.
+
+Thank you for your cooperation and understanding.
